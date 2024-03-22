@@ -1,4 +1,4 @@
-selam! burayi cok kullanmiyom
+selam! burayı çok kullanmıyorum.
 <!--
 ### Hi there 👋
 -->
