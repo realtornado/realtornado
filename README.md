@@ -1,3 +1,5 @@
+cok yakinda sizlerleyim
+
 <!--
 ### Hi there 👋
 -->
