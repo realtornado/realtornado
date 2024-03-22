@@ -1,5 +1,4 @@
-cok yakinda sizlerleyim
-
+selam! burayi cok kullanmiyom
 <!--
 ### Hi there 👋
 -->
