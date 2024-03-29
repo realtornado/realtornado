@@ -1,6 +1,7 @@
 <p align="center">
       <img align="right" width="30%">
     <br><br>
+<br>
 <samp>
 selam! burayı çok kullanmıyorum.
 </samp>
