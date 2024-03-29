@@ -1,4 +1,4 @@
-selam! burayı çok kullanmıyorum.
+selam! burayı çok kullanmıyorum.\n
 <img src="https://komarev.com/ghpvc/?username=realtornado">
 
 <!--
