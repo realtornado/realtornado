@@ -3,6 +3,7 @@
     <br><br>
 selam! burayı çok kullanmıyorum.
 <img src="https://komarev.com/ghpvc/?username=realtornado">
+      <br>
 </p>
 
 <!--
