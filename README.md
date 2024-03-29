@@ -1,4 +1,6 @@
 selam! burayı çok kullanmıyorum.
+<img src="https://komarev.com/ghpvc/?username=realtornado">
+
 <!--
 ### Hi there 👋
 -->
