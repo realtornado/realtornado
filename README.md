@@ -2,9 +2,6 @@
       <img align="right" width="30%">
     <br><br>
 <br>
-<samp>
-selam! burayı çok kullanmıyorum.
-</samp>
 <img src="https://komarev.com/ghpvc/?username=realtornado">
       <br>
 </p>
