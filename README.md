@@ -1,5 +1,7 @@
+<p align="center">
 selam! burayı çok kullanmıyorum.
 <img src="https://komarev.com/ghpvc/?username=realtornado">
+</p>
 
 <!--
 ### Hi there 👋
